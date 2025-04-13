@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
-<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="360px"/>
+<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="100px"/>
 
 <p> Hi! I'm currently on a quest through the lands of Software Development as a diploma student 🧑‍💻.</p>
 
