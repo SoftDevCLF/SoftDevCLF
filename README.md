@@ -1,16 +1,14 @@
 # Hi 👋, I'm Cintya 💻💖!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=2800&pause=1000&color=420B7B&width=435&lines=%F0%9F%94%83+Software+Developer+In+Training+%F0%9F%94%83;%E2%9D%A4%EF%B8%8F+C%23+and+Python+%E2%9D%A4%EF%B8%8F;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2800&pause=1000&color=420B7B&width=435&lines=Software+Developer+In+Training+%F0%9F%94%83;C%23+and+Python+%E2%9D%A4%EF%B8%8F;Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+
+<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="360px"/>
 
 <p> Hi! I'm currently on a quest through the lands of Software Development as a diploma student 🧑‍💻.</p>
 
 <p>I'm leveling up my skills in Python, C#, MAUI Blazor Hybrid, and all the behind-the-scenes magic that powers great software.✨</p>
-
-
-<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="360px"/>
-
 
 ```python
 #!/usr/bin/python
