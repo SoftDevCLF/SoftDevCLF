@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cintya 💻💖!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=2800&pause=1000&color=420B7B&width=435&lines=Software+Developer+In+Training+%F0%9F%94%83;C%23+and+Python+%E2%9D%A4%EF%B8%8F;Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2800&pause=1000&color=420B7B&width=435&lines=Software+Developer+In+Training+%F0%9F%94%83;C%23+and+Python+%E2%9D%A4%EF%B8%8F;Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
