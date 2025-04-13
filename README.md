@@ -9,6 +9,9 @@
 <p>I'm leveling up my skills in Python, C#, MAUI Blazor Hybrid, and all the behind-the-scenes magic that powers great software.✨</p>
 
 
+<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="360px"/>
+
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -31,7 +34,6 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-<img align="right" alt="GIF" src="img\Coding Locked In GIF by Alliance.gif" width="360px"/>
 
 </hr>
 
@@ -48,7 +50,7 @@ me.say_hi()
 
 ## 📊 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftDevCLF&show_icons=true&layout=donut-vertical&theme=buefy) (https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftDevCLF&show_icons=true&layout=donut-vertical&theme=buefy)
 
 ## Interests 
 - Cybersecurity
@@ -62,7 +64,7 @@ me.say_hi()
 
 </hr>
 
-### "One Code to rule them all, One Repo to find them, One Script to bring them all, and in the terminal bind them."
+###### "One Code to rule them all, One Repo to find them, One Script to bring them all, and in the terminal bind them."
 
 </hr>
 
