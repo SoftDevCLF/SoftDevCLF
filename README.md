@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cintya 💻💖!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2800&pause=1000&color=420B7B&width=435&lines=Software+Developer+In+Training+%F0%9F%94%83;C%23+and+Python+%E2%9D%A4%EF%B8%8F;Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=25&duration=2800&pause=1000&color=420B7B&width=435&lines=Software+Developer+In+Training+%F0%9F%94%83;C%23+and+Python+%E2%9D%A4%EF%B8%8F;Lord+Of+The+Rings+Fan+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
@@ -37,7 +37,9 @@ me.say_hi()
 
 ## 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="img\python-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height ="42px" src="img\html5.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="img\javascript.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="42px" src="img\CSS3_logo.svg"></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"> <img src="img\csharp-original.svg" alt="csharp" height='42px'/> </a>
 <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank"> <img src="img\AppDev_sql_detailed.svg" alt="sql" height='42px'/> </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank"> <img src="img\NETMAUI.png" alt="netMAUI" height='42px'/> </a>
